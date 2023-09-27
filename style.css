@@ -50,3 +50,13 @@ thead {
 .line_blue {
     background-color: rgb(0, 225, 255);
 }
+
+.advertising {
+    color: #ccc5c5;
+    margin-bottom: 30px;
+}
+
+.first_img {
+    display: block;
+    margin-bottom: 10px;
+}
