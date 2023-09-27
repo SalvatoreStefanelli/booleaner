@@ -1,0 +1,9 @@
+header {
+    background-color: rgb(89, 133, 236);
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+}
+
+.title {
+    width: 200px;
+}
